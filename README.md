@@ -3,7 +3,7 @@
 # 🚀 Three-Tier Web Application Deployment on AWS EKS <img width="1533" height="704" alt="Gemini_Generated_Image_7oaswx7oaswx7oas" src="https://github.com/user-attachments/assets/815f3cee-2440-4a7b-a02a-b8bf74845ad7" />
 
 
-![Project Architecture](architecture.png)
+
 
 This repository contains the source code, Docker configurations, and Kubernetes deployment manifests for a full-stack **Three-Tier Web Application** built with ReactJS, NodeJS, and MongoDB[cite: 6]. The application is containerized with Docker, pushed to Amazon Elastic Container Registry (ECR), and deployed onto AWS Elastic Kubernetes Service (EKS) with Ingress traffic routing[cite: 6, 7].
 
