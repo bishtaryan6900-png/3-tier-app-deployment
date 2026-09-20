@@ -1,5 +1,7 @@
 
-# 🚀 Three-Tier Web Application Deployment on AWS EKS 
+
+# 🚀 Three-Tier Web Application Deployment on AWS EKS <img width="1533" height="704" alt="Gemini_Generated_Image_7oaswx7oaswx7oas" src="https://github.com/user-attachments/assets/815f3cee-2440-4a7b-a02a-b8bf74845ad7" />
+
 
 ![Project Architecture](architecture.png)
 
