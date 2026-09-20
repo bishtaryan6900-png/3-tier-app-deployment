@@ -18,14 +18,14 @@ spec:
       role: api
   template:
     metadata:
-      labels:
+      labels: 
         role: api
     spec:
       imagePullSecrets:
       - name: ecr-registry-secret
       containers:
       - name: api
-        image: 407622020962.dkr.ecr.us-east-1.amazonaws.com/backend:latest
+        image: 570934197959.dkr.ecr.ap-south-1.amazonaws.com/3tier-backend:latest
         imagePullPolicy: Always
         env:
           - name: MONGO_CONN_STR

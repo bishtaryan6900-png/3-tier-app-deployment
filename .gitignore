@@ -1,0 +1,13 @@
+
+# AWS credentials / CLI
+.aws/
+aws/
+awscliv2.zip
+
+# Swap/temp files
+*.swp
+*.swo
+
+# Environment/secrets
+.env
+.env.*
